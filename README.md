@@ -20,4 +20,4 @@ Based on it, I created an artist dictionary by assigning albums’ information t
 
 Using Twitter’s Rest API, I grabbed tweets’ profiles from Pitchfork’s twitter timeline on 162 pages. There are around 3200 tweets in all, dated from March 3, 2016 to May 26, 2016. Each tweet’s profile includes the tweet’s id, text, mentioned-users, retweet-number, and favorite-number. I add numbers of favorited & retweet together as an engagement score for every tweet.
 
-http://joesyfan.com/pitchfork
+https://www.jun-fan.com/pitchfork.html
